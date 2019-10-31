@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: index.html
     - text: "Resume"
       href: resume_t.html
     - text: "2017 Online Grocery Data"
