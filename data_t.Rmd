@@ -72,5 +72,5 @@ instacart_bev %>%
           mode = "line") 
 ```
 
-rmarkdown::render("data_t.Rmd", output_format = "flexdashboard::flex_dashboard")
+
 
