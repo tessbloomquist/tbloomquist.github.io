@@ -4,11 +4,11 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about.html
+      href: about_t.html
     - text: "Resume"
-      href: resume.html
+      href: resume_t.html
     - text: "2017 Online Grocery Data"
-      href: dashboard_hw4.html
+      href: data_t.html
     - text: "Methods"
       href: Methods.html
     - icon: fa-envelope fa-lg
