@@ -26,7 +26,7 @@ instacart_bev =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Diet Pepsi Sales compared to Pepsi Sales by Day of Week
 
 ```{r scatter graph}
 #plot of diet pepsi vs normal pepsi by day of the week
@@ -44,7 +44,7 @@ instacart_bev %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Beverage Purchases by Hour of the Day 
 
 ```{r bar graph}
 #beverage purchase per day
@@ -57,7 +57,7 @@ instacart_bev %>%
 
 ```
 
-### Chart C
+### Tea vs Coffee Purchases by Hour of the Day
 
 ```{r line graph}
 #beverage purchase per day
