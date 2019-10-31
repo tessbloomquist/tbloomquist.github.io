@@ -26,7 +26,7 @@ instacart_bev =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Diet Pepsi Sales compared to Pepsi Sales by Day of Week
+### Diet Pepsi Sales compared to Pepsi Sales by Hour of Day
 
 ```{r scatter graph}
 #plot of diet pepsi vs normal pepsi by day of the week
