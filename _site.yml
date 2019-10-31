@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about_t.html
+      href: index.html
     - text: "Resume"
       href: resume_t.html
     - text: "2017 Online Grocery Data"
