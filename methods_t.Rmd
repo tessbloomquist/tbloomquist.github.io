@@ -6,6 +6,8 @@ This site was created using R (version 3.5.1)
 
 The following packages were used in this website data analysis for publically available data on an Online Grocery Store. 
 
+Three graphs were produced to examine the data in the "2017 Online Grocery Store" tab of the website.
+
 -flexdashboard
 
 -tidyverse
